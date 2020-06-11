@@ -9,3 +9,5 @@ This repository contains
 (2) Map data codebook
 (3) Agency-level data codebook
 (4) Paper describing data development
+
+To discuss obtaining full agency-level dataset, contact arrestdisparitymap@gmail.com.
