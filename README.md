@@ -3,3 +3,9 @@ Racial disparity in arresting behavior is not only a concern for people of color
 
 
 We present three new measures of racial disparity in arrest, measured across more than 13,000 agencies nationwide, allowing for reliable analysis of disparity across time and geographic space.  We demonstrate that, between 1999 and 2015, while crime rates generally declined, racial disparity in arrest increased substantially.  
+
+This repository contains
+(1) Map visualization data
+(2) Map data codebook
+(3) Agency-level data codebook
+(4) Paper describing data development
