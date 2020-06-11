@@ -1,2 +1,5 @@
 # arrest_disparity_map
-Racial disparity in arresting behavior is not only a concern for people of color; it can delegitimize law enforcement, increase tension between police and citizens, and even increase crime.  Efforts at police reform stall, in part because racial disparity in policing was previously unmeasurable.  &lt;/br> We present three new measures of racial disparity in arrest, measured across more than 13,000 agencies nationwide, allowing for reliable analysis of disparity across time and geographic space.  We demonstrate that, between 1999 and 2015, while crime rates generally declined, racial disparity in arrest increased substantially.  
+Racial disparity in arresting behavior is not only a concern for people of color; it can delegitimize law enforcement, increase tension between police and citizens, and even increase crime.  Efforts at police reform stall, in part because racial disparity in policing was previously unmeasurable.  
+
+
+We present three new measures of racial disparity in arrest, measured across more than 13,000 agencies nationwide, allowing for reliable analysis of disparity across time and geographic space.  We demonstrate that, between 1999 and 2015, while crime rates generally declined, racial disparity in arrest increased substantially.  
